@@ -4,4 +4,4 @@ some changes
 
 some changes 
 
-external 
+internal 
